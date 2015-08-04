@@ -4,9 +4,7 @@
 
 1. If you don't have a `.bashrc` or `.zshrc` create one.
 
-- In your root directory:
-
-`touch .bashrc`
+- In your root directory: `touch .bashrc`
 
 2. Add the following line to your `.bashrc` or `.zshrc`
 
